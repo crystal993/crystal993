@@ -24,7 +24,7 @@ if you want to contact me, please leave me a message!!
 <br>  
 <br>
       
- [![christal993's github stats](https://github-readme-stats.vercel.app/api?username=christal993)](https://github.com/christal993/github-readme-stats)   
+ [![crystal993's github stats](https://github-readme-stats.vercel.app/api?username=crystal993)](https://github.com/crystal993/github-readme-stats)   
     
  </div>
 
