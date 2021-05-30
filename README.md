@@ -1,16 +1,30 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=DDC1FC&height=300&section=header&text=%20crystal()%20;&fontColor=282828&render&fontSize=90)
 
-<!--
-**crystal993/crystal993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = center>
 
-Here are some ideas to get you started:
+# Hi, There 👋
+## Welcome to Su Jeong's GitHub 💎
+<br>
+I am Sujeong Kim who is interested in data engineering  from South Korea. <br>
+if you want to contact me, please leave me a message!! 
+<br>
+<br>
+    
+ ## Stack :wrench:
+ ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=HTML5&logoColor=white)
+ ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+ ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+ ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=CSS3&logoColor=white)   
+    
+ ## Me :crystal_ball: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggg7152@gmail.com)](mailto:ggg7152@gmail.com)
+ [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ggg5483)](https://velog.io/@ggg5483)
+ 
+<br>  
+<br>
+      
+ [![christal993's github stats](https://github-readme-stats.vercel.app/api?username=christal993)](https://github.com/christal993/github-readme-stats)   
+    
+ </div>
+
