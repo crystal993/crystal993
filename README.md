@@ -6,7 +6,7 @@
 ## Welcome to Su Jeong's GitHub 💎
 <br>
 I am Sujeong Kim who is interested in data engineering  from South Korea. <br>
-if you want to contact me, please leave me a message!! 
+if you want to contact me, please leave me a message!
 <br>
 <br>
     
