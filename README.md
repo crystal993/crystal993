@@ -17,7 +17,7 @@ if you want to contact me, please leave me a message!
  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)   
     
  ## Me :crystal_ball: 
-
+ 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggg7152@gmail.com)](mailto:ggg7152@gmail.com)
  [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ggg5483)](https://velog.io/@ggg5483)
  [![GitHub Badge](https://img.shields.io/badge/Tech-Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://crystal993.github.io/)](https://crystal993.github.io/)  
