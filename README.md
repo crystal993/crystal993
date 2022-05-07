@@ -19,7 +19,7 @@ if you want to contact me, please leave me a message!
  ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
  ![Spring Boot Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)  
  ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) 
- ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)   
+
 
  ## Me :crystal_ball: 
  
