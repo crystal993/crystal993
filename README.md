@@ -16,9 +16,9 @@ if you want to contact me, please leave me a message!
  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)   
  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) 
  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)   
- ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
- ![Spring Boot Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)  
- ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) 
+ ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+ ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)  
+ ![styled_components Badge](https://img.shields.io/badge/Styled_components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white) 
 
 
  ## Me :crystal_ball: 
